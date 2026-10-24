@@ -125,3 +125,6 @@ Built for a hackathon focused on using AI to improve the citizen grievance exper
 ---
 
 **LokSeva AI — Making grievance handling clearer, more accessible, and easier to follow.**
+
+**Collaborators:**
+- Aditya Sharma
